@@ -566,4 +566,5 @@ IDMSQAS11 – A characteristic of the data that binary search uses but linear se
 
 Order of the elements of the list.
 
- 
+ ![image](https://user-images.githubusercontent.com/107268056/173105910-fed34fc9-907f-478f-8583-7f4530677508.png)
+
